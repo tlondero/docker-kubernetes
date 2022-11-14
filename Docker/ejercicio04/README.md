@@ -1,6 +1,4 @@
-# docker-kubernetes
-
-Ejercicio 4:
+# Ejercicio 4:
 docker build -t password.jar . --build-arg JAR_FILE=./passwordapi.jar
 docker run -d -p 8080:8080 password.jar
 docker tag password.jar:latest tlondero/password.jar

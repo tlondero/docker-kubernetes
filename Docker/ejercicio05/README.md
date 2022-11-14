@@ -1,6 +1,4 @@
-# docker-kubernetes
-
-Ejercicio 5:
+# Ejercicio 5:
 
 ## HEALTHCHECK
 Instrucción que le dice a Docker como probar el conteiner para verificar que todavía funciona.
